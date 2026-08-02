@@ -116,7 +116,15 @@ so they run correctly regardless of where Jupyter was launched.
 Some notebooks were not run for the thesis and are included for completeness;
 those without stored outputs can be executed with the steps above.
 
+## Thesis
+
+The full text of the thesis is available as [`thesis/thesis.pdf`](thesis/thesis.pdf).
+This public version omits the official signed assignment and the signed
+declaration of authorship pages; the academic content is unchanged.
+
 ## License
 
-The code and notebooks in this repository are released under the MIT License
-(see `LICENSE`).
+The source code and notebooks in this repository are released under the MIT
+License (see `LICENSE`). The thesis text (`thesis/thesis.pdf`) is released under
+the Creative Commons Attribution 4.0 International License (CC BY 4.0, see
+`thesis/LICENSE`).
