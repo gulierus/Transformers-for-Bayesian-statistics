@@ -1,0 +1,34 @@
+# Model checkpoints (hosted on Google Drive, fetched by download_models.py)
+models/*
+!models/.gitkeep
+# Flat staging folder produced by stage_models_for_upload.py
+models_upload/
+
+# PFNs library (installed by setup.sh)
+PFNs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# Virtual environments
+.env
+.env.*
+venv/
+.venv/
+env/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
